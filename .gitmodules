@@ -1,0 +1,3 @@
+[submodule "AlsaConfig"]
+	path = AlsaConfig
+	url = https://github.com/ashwinravianandan/AlsaConfig.git
