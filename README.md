@@ -12,5 +12,6 @@ add the NOPASSWD rule for this script using visudo. The script also softlinks
 two custom .asoundrc config file based on HDMI state. The build in speakers
 would be the deault audio source if you use the .asoundrc refered to by the
 master branch of the submodule. The HDMIConfig branch implement softvol and
-makes HDMI as the default audio source.
+makes HDMI as the default audio source. The ALSA config is specific to my
+hardware and would have to be modified in case of a different hardware setup.
  
